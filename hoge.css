@@ -3,27 +3,20 @@
 body{
   background-color:#e0ffff;
   background-image: url("Pk2BO8.jpg");
-  width: 1000;
-  height:1000;
-  background-repeat:norepeat;
-  background-attachment: fixed;
+  background-position: 0%;
 }
 
 h1{
-  text-align: center;
   color: #ff0000;
   font-family:Impact, sans-serif;
 }
 h2{
-  text-align: center;
   color: #ff0000;
   font-style:italic;
 }
 li{
-  text-align: center;
   color: #ffffff
 }
 ul{
-  text-align: center;
   color: #ffffff
 }
