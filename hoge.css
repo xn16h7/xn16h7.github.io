@@ -3,7 +3,6 @@
 body{
   background-color:#e0ffff;
   background-image: url("Pk2BO8.jpg");
-  background-position: 0%;
 }
 
 h1{
@@ -19,5 +18,5 @@ li{
 }
 ul{
   color: #ffffff;
-  list-style-type:&spades;
+  list-style-type: &spades;
 }
