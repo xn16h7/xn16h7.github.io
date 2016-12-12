@@ -3,6 +3,8 @@
 body{
   background-color:#e0ffff;
   background-image: url("Pk2BO8.jpg");
+  width: 1000
+  height:1000
   background-repeat:norepeat;
   background-attachment: fixed;
 }
