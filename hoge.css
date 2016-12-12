@@ -15,8 +15,9 @@ h2{
   font-style:italic;
 }
 li{
-  color: #ffffff
+  color: #ffffff;
 }
 ul{
-  color: #ffffff
+  color: #ffffff;
+  list-style-type:&spades;
 }
