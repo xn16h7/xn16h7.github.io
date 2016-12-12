@@ -4,6 +4,7 @@ body{
   background-color:#e0ffff;
   background-image: url("GEEK.png");
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1{
