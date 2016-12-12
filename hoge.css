@@ -2,20 +2,26 @@
 
 body{
   background-color:#e0ffff;
-background-image: url("Pk2BO8.jpg");
+  background-image: url("Pk2BO8.jpg");
   background-repeat:norepeat;
   background-attachment: fixed;
 }
 
 h1{
-color: #ff0000;
-font-family:Impact, sans-serif;
+  text-align: center;
+  color: #ff0000;
+  font-family:Impact, sans-serif;
 }
 h2{
-color: #ff0000;
+  text-align: center;
+  color: #ff0000;
   font-style:italic;
 }
-p{
-  padding:0px 10px 5px 10px;
-  line-height: 150%;
-  color:#ff0000;
+li{
+  text-align: center;
+  color: #ffffff
+}
+ul{
+  text-align: center;
+  color: #ffffff
+}
