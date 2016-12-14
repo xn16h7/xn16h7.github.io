@@ -17,8 +17,10 @@ h2{
   font-style:italic;
 }
 li{
+   text-align: center;
   color: #ffffff;
 }
 ul{
+   text-align: center;
   color: #ffffff;
 }
