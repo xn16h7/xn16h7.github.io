@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 body{
+  text-align: center;
   background-color:#000000;
   background-image: url("GEEK.png");
   background-repeat: no-repeat;
@@ -8,22 +9,18 @@ body{
 }
 
 h1{
-  text-align: center;  
+  
   color: #ff0000;
   font-family:Impact, sans-serif;
 }
 h2{
-  text-align: center;  
+    
   color: #ff0000;
   font-style:italic;
 }
 li{
-  text-align: center;  
-   text-align: center;
   color: #ffffff;
 }
 ul{
-  text-align: center;  
-   text-align: center;
   color: #ffffff;
 }
