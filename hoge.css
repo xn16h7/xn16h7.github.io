@@ -13,14 +13,17 @@ h1{
   font-family:Impact, sans-serif;
 }
 h2{
+  text-align: center;  
   color: #ff0000;
   font-style:italic;
 }
 li{
+  text-align: center;  
    text-align: center;
   color: #ffffff;
 }
 ul{
+  text-align: center;  
    text-align: center;
   color: #ffffff;
 }
