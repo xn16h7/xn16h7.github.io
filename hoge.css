@@ -8,6 +8,7 @@ body{
 }
 
 #header{
+  font-size: 2em;
   text-align: center;
 }
 
@@ -33,5 +34,4 @@ li{
 }
 ul{
   color: #ffffff;
-  list-style:disc url("icon_clover2.gif")inside;
 }
