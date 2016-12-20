@@ -8,7 +8,7 @@ body{
 }
 
 #header{
-  margin-bottom: 5px;
+  text-align: center;
 }
 
 #main{
@@ -30,7 +30,9 @@ h2{
 }
 li{
   color: #ffffff;
+  list-style-position:inside;
 }
 ul{
   color: #ffffff;
+  list-style:disc url("icon_clover2.gif")inside;
 }
