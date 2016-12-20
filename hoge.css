@@ -5,12 +5,9 @@ body{
   background-image: url("GEEK.png");
   background-repeat: no-repeat;
   background-position: center;
-}
-
-#header{
-  margin-top: 2em;
   text-align: center;
 }
+
 
 #main{
   float: left;
@@ -30,7 +27,6 @@ h2{
   font-style:italic;
 }
 li{
-  list-style-type: &#9827
   color: #ffffff;
 }
 ul{
