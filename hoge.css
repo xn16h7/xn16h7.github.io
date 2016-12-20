@@ -9,9 +9,6 @@ body{
 }
 
 
-#main{
-  float: left;
-}
 #side{
   width: 300px;
   float: right;
