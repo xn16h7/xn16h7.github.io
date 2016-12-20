@@ -7,6 +7,14 @@ body{
   background-position: center;
 }
 
+#main{
+}
+#side{
+  width: 300px;
+  float: right;
+  height: 500px;
+  }
+
 h1{
   color: #ff0000;
   font-family:Impact, sans-serif;
