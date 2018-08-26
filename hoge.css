@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+head{
+  background-color:#ffffff;
+ }
+
 body{
   background-color:#ffffff;
   background-image: url("GEEK.png");
