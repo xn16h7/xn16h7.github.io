@@ -20,7 +20,9 @@ body{
   float: right;
   height: 500px;
   }
-
+p{
+  color: #ffffff;
+}
 h1{
   color: #ff0000;
   font-family:Impact, sans-serif;
