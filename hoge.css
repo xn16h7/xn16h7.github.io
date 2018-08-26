@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 head{
-  color:#ffffff;
+  color: #ffffff;
  }
 
 body{
-  background-color:#000000;
+  background-color: #000000;
   background-image: url("GEEK.png");
   background-repeat: no-repeat;
   background-position: center;
